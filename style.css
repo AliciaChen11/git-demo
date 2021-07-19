@@ -1,3 +1,7 @@
 body {
   color: rebeccapurple;
 }
+
+p {
+  font-size: 3px;
+}
